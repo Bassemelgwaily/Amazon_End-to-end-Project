@@ -105,11 +105,7 @@ All three layers live in **one SQL Server database**, separated as three **schem
 
 ---
 
-## 6. What's Next
 
-- [ ] Analytical CTEs/Views on the Gold layer (RFM segmentation, cohort analysis, seasonal lift analysis)
-- [ ] Power BI connection (Gold schema only)
-- [ ] Data quality checks / automated validation pass
 
 ---
 
